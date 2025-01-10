@@ -16,4 +16,3 @@ m_iItemDefinitionIndex = 442
 m_iClip1 = 5752
 m_iObserverMode = 64
 m_hObserverTarget = 68
-s
